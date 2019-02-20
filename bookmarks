@@ -1,0 +1,15 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("all"
+ (filename . "~/Downloads/nethack-3.6.0/Makefile")
+ (front-context-string . "all:	$(GAME) rec")
+ (rear-context-string . "rc ; $(MAKE) )\n\n")
+ (position . 4479))
+("install"
+ (filename . "~/Downloads/nethack-3.6.0/Makefile")
+ (front-context-string . "install: rootche")
+ (rear-context-string . "; $(ROOTCHECK)\n\n")
+ (position . 8734))
+)
